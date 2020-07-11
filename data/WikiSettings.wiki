@@ -1,0 +1,23 @@
+﻿++ Wiki Settings
+[global.importance.low.color: grey]
+[global.importance.high.bold: true]
+[global.contact.icon: contact]
+[global.wrap: 70]
+[icon: cog]
+
+
+* ScratchPad
+* WikidpadToolsAndFunctions
+* GsL
+
+
+[global.import_scripts: GsL]
+[global.child_sort_order: natural]
+
+These are your default global settings.
+
+[global.importance.high.color: FIREBRICK]
+
+[color: GRAY]
+[global.font: Helvetica Neue]
+[global.font: Helvetica]
