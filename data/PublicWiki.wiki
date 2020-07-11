@@ -1,7 +1,4 @@
 ﻿++ Public Stoned Wiki
 
-Welcome to my WikidPad based wiki hosted on GitHub pages 
--- JaysenNaidoo
-
-
+* [Home]
 * WikiSettings

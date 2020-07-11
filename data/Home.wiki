@@ -1,0 +1,4 @@
+﻿++ Public Wiki
+
+Welcome to my WikidPad based wiki hosted on GitHub pages at https://jaysen.github.io/wiki/Home.html
+-- JaysenNaidoo
